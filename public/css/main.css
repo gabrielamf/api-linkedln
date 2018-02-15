@@ -1,0 +1,63 @@
+.bg {
+  height: 100vh;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-weight: 700;
+}
+.col {
+  padding: 0 !important;
+}
+.profile {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+}
+.fondo {
+  background-image: url('../assets/images/textura.png');
+  height: 15rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.saludo {
+  margin-top: 4rem;
+}
+.firstname {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-top: 1.5rem;
+  letter-spacing: 1px;
+}
+.lastname {
+  font-size: 1.4rem;
+  margin: -5px;
+  letter-spacing: 3px;
+  color: #64b5f6 ;
+}
+.cargo {
+  padding: .7rem;
+  width: 90%;
+  margin: .5rem auto;
+  border-radius: 5px;
+}
+.centro{
+  margin: 0 auto !important;
+}
+.tarjeta {
+  margin-top: 2rem;
+}
+@media (min-width: 992px) {
+  .fondo {
+    height: 12rem;
+  }
+  .cargo {
+    width: 50%;
+  }
+}
