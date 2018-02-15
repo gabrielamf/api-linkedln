@@ -1,5 +1,4 @@
 # LINKEDIN - La mayor red profesional del mundo
-# WEATHER
 
 
 * **Track:** _Common Core_
