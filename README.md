@@ -14,7 +14,7 @@ El presente reto pone a prueba nuestros conocimientos sobre **APIS**.
 
 - Se nos diseñar un producto en donde se nos pide utilizar el Api de Linkedin para tener contactos profesionales y encontrar información del ambito profesional.
 
-![view 1](assets/docs/page.jpg)
+![view 1](public/assets/images/page.jpg)
 
 
 ## Detalles adicionales
