@@ -1,4 +1,4 @@
-# LINKEDLN - La mayor red profesional del mundo
+# LINKEDIN - La mayor red profesional del mundo
 # WEATHER
 
 
@@ -10,7 +10,11 @@
 
 Si tú pensabas que LinkedIn solo servía para mantener actualizado tu CV, revisa las siguientes slides para que te sorprendas con todas las posibilidades que nos ofrece para crear diferentes productos con su API.
 El presente reto pone a prueba nuestros conocimientos sobre **APIS**.
+## Objetivo
 
+- Se nos diseñar un producto en donde se nos pide utilizar el Api de Linkedin para tener contactos profesionales y encontrar información del ambito profesional.
+
+![view 1](assets/docs/page.jpg)
 
 
 ## Detalles adicionales
